@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvlas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div align="center" style="display: inline_block"><br>
+<div align="left" style="display: inline_block"><br>
   <img align="center" alt="tvlas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
   <img align="center" alt="tvlas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="tvlas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
