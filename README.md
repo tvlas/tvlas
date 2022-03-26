@@ -6,6 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvlas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div>
-![snake gif](https://github.com/tvlas/vlas/blob/output/github-contribution-grid-snake.gif)
-</div>
+  
+ ## Commits
+![snake gif](https://github.com/tvlas/vlas/blob/output/github-contribution-grid-snake.svg)
